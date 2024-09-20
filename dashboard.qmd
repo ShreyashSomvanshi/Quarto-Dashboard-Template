@@ -1,0 +1,26 @@
+---
+title: 'My Quarto Dashboard'
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    toc-location: left
+---
+
+# Dashboard Overview
+
+This is a simple dashboard created with Quarto.
+
+## Section 1
+
+```{r}
+# Sample R code
+summary(cars)
+```
+
+## Section 2
+
+```{r}
+# Another R code chunk
+plot(cars)
+```
